@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://a-static.besthdwallpaper.com/night-sky-falling-stars-wallpaper-2048x1536-94897_26.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(212,175,55);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(27, 12, 12, 0.55);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.imgur.com/8hro67F.jpg);
 
   /*
     Change your friends icon image position
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(137, 207, 240);
 
   /*
     Change the unread server animation.
@@ -136,8 +136,8 @@
   /*
     Add Server / Discovery Icon
   */
-  --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #43b581;
+  --add-discover-icon-transparency: rgba(200, 200, 200, 0.05);
+  --add-discover-icon-color: #43b582ec;
 
   /*
     Channel Limit Number Color
@@ -191,7 +191,7 @@
   /*
     Folders
   */
-  --folder-background-color: #2f3136;
+  --folder-background-color: #3a3d443a;
   --expanded-folder-background-color: transparent;
 
   /*
